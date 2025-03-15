@@ -5,10 +5,10 @@
 
 ## Features
  Supports multiple call types:
-   - **911** (Emergency) - Red Blip (ID: 55)
-   - **911L** (Local Emergency) - Orange Blip (ID: 55)
-   - **911P** (Priority Emergency) - Dark Red Blip (ID: 39)
-   - **311** (Non-Emergency) - Blue Blip
+   - **911** (Emergency) 
+   - **911L** (Local Emergency) 
+   - **911P** (Priority Emergency) 
+   - **311** (Non-Emergency) 
  Displays the street location of the call
  Automatically creates a **blip** on the map for emergency responders
  Plays an **alert sound** when a call is made
@@ -26,7 +26,7 @@
 ## Usage
 Players can use the following chat commands:
 - `/911 [message]` → Sends a **911 emergency call**
-- `/911l [message]` → Sends a **local emergency call**
+- `/911l [message]` → Sends a **local Caller call**
 - `/911p [message]` → Sends a **priority emergency call**
 - `/311 [message]` → Sends a **non-emergency call**
 
