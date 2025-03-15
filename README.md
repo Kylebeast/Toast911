@@ -6,7 +6,7 @@
 ## Features
  Supports multiple call types:
    - **911** (Emergency) 
-   - **911L** (Local Emergency) 
+   - **911L** (Local Caller) 
    - **911P** (Priority Emergency) 
    - **311** (Non-Emergency) 
  Displays the street location of the call
