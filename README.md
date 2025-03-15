@@ -1,4 +1,4 @@
-# Toast911 - FiveM 911 System
+# Toast911 - Fivem 911 System
 
 ## Description
 **Toast911** is a **realistic emergency call system** for FiveM, allowing players to send different types of **911 and 311 calls** in chat. The script automatically creates **blips** on the map for responders and plays an **alert sound** when a call is made.
